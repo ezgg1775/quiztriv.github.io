@@ -1,0 +1,50 @@
+[
+	{
+		"id": 1,
+		"name": "History",
+		"color": "#3498db",
+		"description": "Explore the rich history of civilizations and events that shaped the world. Questions related to historical events, figures, and civilizations."
+	  },
+	  {
+		"id": "ab",
+		"name": "Entertainment",
+		"color": "#f94e4e",
+		"description": "Discover the world of entertainment, from movies to music and more. Questions about movies, TV shows, literature, music, and other forms of entertainment."
+	  },
+	  {
+		"id": "ac",
+		"name": "Technology",
+		"color": "#685af5",
+		"description": "Stay updated on the latest technological innovations and advancements. Questions about computers, programming, inventions, and technological advancements."
+	  },
+	  {
+		"id": "ad",
+		"name": "Geography",
+		"color": "#3ce956",
+		"description": "Explore the diverse landscapes and regions of our planet. Questions about countries, capitals, landmarks, and geographical features."
+	  },
+	  {
+		"id": "ae",
+		"name": "Art",
+		"color": "#307de7",
+		"description": "Immerse yourself in the world of creativity and artistic expression. Questions related to visual arts, literature, music, and famous artists."
+	  },
+	  {
+		"id": "af",
+		"name": "Space",
+		"color": "#a656fd",
+		"description": "Embark on a journey to the cosmos and explore the wonders of space. Questions about astronomy, celestial bodies, space exploration, and related topics."
+	  },
+	  {
+		"id": "ah",
+		"name": "Science",
+		"color": "#e857ed",
+		"description": "Dive into the world of scientific discoveries and exploration. Questions covering various scientific disciplines, including physics, chemistry, biology, and earth science."
+	  },
+	  {
+		"id": "ag",
+		"name": "General culture",
+		"color": "#56cfef",
+		"description": "Learn about various aspects of culture, traditions, and general knowledge. A broad range of questions encompassing general knowledge, trivia, and recent events in various domains."
+	  }
+]

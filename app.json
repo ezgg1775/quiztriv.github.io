@@ -1,0 +1,30 @@
+{
+    "expo": {
+      "name": "MyExpoApp",
+      "slug": "my-expo-app",
+      "version": "1.0.0",
+      "orientation": "portrait",
+      "icon": ".src/assets/favicon.svg",
+      "splash": {
+        "image": ".src/assets/favicon.svg",
+        "resizeMode": "contain",
+        "backgroundColor": "#ffffff"
+      },
+      "updates": {
+        "fallbackToCacheTimeout": 0
+      },
+      "assetBundlePatterns": [
+        "**/*"
+      ],
+      "ios": {
+        "supportsTablet": true
+      },
+      "android": {
+        "adaptiveIcon": {
+          "foregroundImage": ".src/assets/favicon.svg",
+          "backgroundColor": "#FFFFFF"
+        }
+      }
+    }
+  }
+  
